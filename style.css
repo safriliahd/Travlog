@@ -1,0 +1,20 @@
+#btn-warna{
+    background-color: #5D50C6;
+}
+#nav:hover{
+    color: black;
+}
+#color-pink{
+    color: #F85E9F;
+}
+#color-orange{
+    color: #FF5722;
+}
+#bg-pink{
+    background-color: #faf3f5;
+}
+#bg-testi{
+    background-image: url(Image/testi-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
